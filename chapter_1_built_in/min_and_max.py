@@ -1,4 +1,4 @@
-# Minimum and Maximum
+# Minimum and Maximum built in fucntions
 
 playerOneScore = 10
 playerTwoScore = 7
