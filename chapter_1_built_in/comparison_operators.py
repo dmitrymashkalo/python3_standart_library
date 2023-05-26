@@ -38,8 +38,8 @@ print(True > False) # True
 
 # Looking for first mismatched letter
 # A - Z -> 1 - 26
-# > -> is greater than
-print('Jennifer' > 'Jenny') # False, because 'i = 9' and 'y = 25'
+# >= -> is greater than or equal to
+print('Jennifer' >= 'Jenny') # False, because 'i = 9' and 'y = 25'
 
 # A - Z -> 1 - 26
 # <= -> is less than or equal to
